@@ -1,0 +1,15 @@
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\bin\Debug\net10.0\IsNumberOddorNot.exe
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\bin\Debug\net10.0\IsNumberOddorNot.deps.json
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\bin\Debug\net10.0\IsNumberOddorNot.runtimeconfig.json
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\bin\Debug\net10.0\IsNumberOddorNot.dll
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\bin\Debug\net10.0\IsNumberOddorNot.pdb
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.sourcelink.json
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.dll
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\refint\IsNumberOddorNot.dll
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.pdb
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\IsNumberOddorNot.genruntimeconfig.cache
+C:\Users\Andres\Desktop\UNIVERSIDAD\PROGRAMACION\Estructura de datos\CodeRepo\CodeRepo\IsNumberOddorNot\obj\Debug\net10.0\ref\IsNumberOddorNot.dll
